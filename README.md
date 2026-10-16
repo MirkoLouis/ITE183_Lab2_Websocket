@@ -13,7 +13,7 @@ It handles the following routes and events:
 ## 2. Screenshots Section
 
 ### Showcase Video
-[▶ Watch the showcase video (Showcase.mkv)](documentation/Showcase.mkv)
+[▶ Watch the showcase video (Showcase.mkv)](https://github.com/user-attachments/assets/3bc3b0b4-3807-4eb5-9031-a530289db450)
 
 ### Bonezegei Version (bonezegei -v)
 ![Bonezegei Version](documentation/bonezegei%20version.png)
